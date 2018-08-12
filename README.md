@@ -1,2 +1,2 @@
 # tensorflow
-my own tensorflow just for try MNIST
+my own tensorflow just for trying MNIST the easyest one
